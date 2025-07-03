@@ -2,7 +2,7 @@
 
 ## Contacts
 #### Email: [omarhassoundithomsi@gmail.com](omarhassoundithomsi@gmail.com)
-#### Phone: +963-965540536
+#### Phone: [+963-965540536](https://wa.me/963965540536)
 #### Social: [LinkedIn](https://www.linkedin.com/in/omar-hassoun-dit-homsi-09bb22207/)
 
 ## Summary
@@ -32,10 +32,10 @@ effectively utilize Generative AI tools to enhance analysis and decision-making.
 
 ## Projects that I have been working on @ FMS Tech.
 
-### Eagle Eye System:
+- ### Eagle Eye System:
 A device that detects violations by monitoring the drivers reckless behaviors in order to limit accidents on the roads.
 
-### Fuel System:
+- ### Fuel System:
 Sensors that are installed on large tracks in order to detect thefts.
 
 ## Education
