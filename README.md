@@ -35,8 +35,12 @@ effectively utilize Generative AI tools to enhance analysis and decision-making.
 - ### Eagle Eye System:
 A device that detects violations by monitoring the drivers reckless behaviors in order to limit accidents on the roads.
 
+![EEG Band Discovery](fusion-device-camera3-1-1.jpg)
+
 - ### Fuel System:
 Sensors that are installed on large tracks in order to detect thefts.
+
+![EEG Band Discovery](Fuel-Management-Solutions-Monitoring-Report-Graph.jpg)
 
 ## Education
 Bachelors in Electronics and communication engineering, Damascus University. 
