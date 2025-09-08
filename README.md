@@ -39,14 +39,12 @@ I've solid knowledge in SQL, Excel and data visualization tools such as Tableau 
 Develop a dashboard to investigate the reasons behind customer attrition within a defined timeframe to empower decision-makers in addressing customer churn effectively.
 
 ![EEG Band Discovery](Customer-Churn-Analysis-Dashboard.jpg)
-
 [View Full Project](https://public.tableau.com/app/profile/omar.hassoun.dit.homsi/viz/ChurnAnalysis_17547512671070/CustomerChurnAnalysisDashboard)
 
 - ### HR Data Analysis:
 Create a streamlined dashboard that give HR team quick insights about employees & salaries using Tableau Public Desktop.
 
 ![EEG Band Discovery](HR-Data-Analysis-Dashboard.jpg)
-
 [View Full Project](https://public.tableau.com/app/profile/omar.hassoun.dit.homsi/viz/HRDataAnalysis_17540524077600/HRSummary)
 
 - ###	Store Data Analysis:
