@@ -29,7 +29,7 @@ I've solid knowledge in SQL, Excel and data visualization tools such as Tableau 
 - Report bugs to QA software team, and provide them with suggestions to make the portal more efficient.
 - Lead a violation team, and train the new team members on the system.
 
-####Data Analyst Internship @ NSDIC, India · Remote (Jul 2025 – Aug 2025)
+#### Data Analyst Internship @ NSDIC, India · Remote (Jul 2025 – Aug 2025)
 - Analyzed, visualized, & reported 3 projects using different tools & methods.
 - Explain the final dashboards to the stakeholders.
 
