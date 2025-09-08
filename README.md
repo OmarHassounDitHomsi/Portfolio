@@ -13,6 +13,7 @@ I've solid knowledge in SQL, Excel and data visualization tools such as Tableau 
 - Advanced SQL Techniques
 - Excel (Charts, Pivot Tables)
 - Tableau
+- Power BI
 - Statistics, Probability, Linear Algebra
 - Analytical Thinkinking
 - Problem-Solving
@@ -36,7 +37,7 @@ I've solid knowledge in SQL, Excel and data visualization tools such as Tableau 
 ## Projects:
 
 - ### Customer Churn Analysis :
-Develop a dashboard to investigate the reasons behind customer attrition within a defined timeframe to empower decision-makers in addressing customer churn effectively.
+Develop a dashboard to investigate the reasons behind customer attrition within a defined timeframe to empower decision-makers in addressing customer churn effectively using Tableau Public Desktop.
 
 ![EEG Band Discovery](Customer-Churn-Analysis-Dashboard.jpg)
 [View Full Project](https://public.tableau.com/app/profile/omar.hassoun.dit.homsi/viz/ChurnAnalysis_17547512671070/CustomerChurnAnalysisDashboard)
