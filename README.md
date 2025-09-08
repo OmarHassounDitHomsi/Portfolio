@@ -6,41 +6,53 @@
 #### Social: [LinkedIn](https://www.linkedin.com/in/omar-hassoun-dit-homsi-09bb22207/)
 
 ## Summary
-I have a strong passion for data analysis and its applications in business and technology, 
-leveraging data-driven insights to tackle complex business challenges. I am experienced 
-in Excel and data visualization, with good knowledge of SQL, Python, and pandas, and I 
-effectively utilize Generative AI tools to enhance analysis and decision-making. 
+I'm expert in data analysis and its applications in business and technology, leveraging data-driven insights to tackle complex business challenges.
+I've solid knowledge in SQL, Excel and data visualization tools such as Tableau & Power BI, and I effectively utilize Generative AI tools to enhance analysis and decision-making to stakeholders.
 
 ## Skill Highlights
-- Excel (Functions, Charts, Pivot tables)
-- Python (pandas, matplotlib, seaborn)
-- Data Analysis & Visualization
-- SQL
+- Advanced SQL Techniques
+- Excel (Charts, Pivot Tables)
+- Tableau
+- Statistics, Probability, Linear Algebra
 - Analytical Thinkinking
 - Problem-Solving
 - Attenttion to Details
+- Storeytelling
 - Teamwork & Collaboration 
 
 ## Work Experiences 
-#### QA Data Validation Specialist @ FMS Tech., Abu Dhabi, UAE · Remote
+#### QA Data Quality Analyst Specialist @ FMS Tech., Abu Dhabi, UAE · Remote (Nov 2022 - Present)
 - Work closely with the AI/ML engineers to develop an accurate Driver 
-- Monitoring System including detecting driver's fatigue, distraction, cellphone use, and smoking.
+  Monitoring System including detecting driver's fatigue, distraction, cellphone use, and smoking.
 - Collect and analyze data from various sources to identify trends, patterns, and anomalies that impact the system's detection accuracy and overall performance.
 - Doing monthly check to evaluate the system performance and present information using charts, and reports to the manager and the decision makers.
 - Report bugs to QA software team, and provide them with suggestions to make the portal more efficient.
 - Lead a violation team, and train the new team members on the system.
 
-## Projects that I have been working on @ FMS Tech.
+####Data Analyst Internship @ NSDIC, India · Remote (Jul 2025 – Aug 2025)
+- Analyzed, visualized, & reported 3 projects using different tools & methods.
+- Explain the final dashboards to the stakeholders.
 
-- ### Eagle Eye System:
-A device that detects violations by monitoring the drivers reckless behaviors in order to limit accidents on the roads.
+## Projects:
 
-![EEG Band Discovery](fusion-device-camera3-1-1.jpg)
+- ### Customer Churn Analysis :
+Develop a dashboard to investigate the reasons behind customer attrition within a defined timeframe to empower decision-makers in addressing customer churn effectively.
 
-- ### Fuel System:
-Sensors that are installed on large tracks in order to detect thefts.
+![EEG Band Discovery](Customer-Churn-Analysis-Dashboard.jpg)
 
-![EEG Band Discovery](Fuel-Management-Solutions-Monitoring-Report-Graph.jpg)
+[View Full Project](https://public.tableau.com/app/profile/omar.hassoun.dit.homsi/viz/ChurnAnalysis_17547512671070/CustomerChurnAnalysisDashboard)
+
+- ### HR Data Analysis:
+Create a streamlined dashboard that give HR team quick insights about employees & salaries using Tableau Public Desktop.
+
+![EEG Band Discovery](HR-Data-Analysis-Dashboard.jpg)
+
+[View Full Project](https://public.tableau.com/app/profile/omar.hassoun.dit.homsi/viz/HRDataAnalysis_17540524077600/HRSummary)
+
+- ###	Store Data Analysis:
+Create a dashboard and share insights to track and analyze online sales across a county to make business decisions using SQL Server & Power BI.
+
+![EEG Band Discovery](Products-Dashboard.jpg)
 
 ## Education
 Bachelors in Electronics and communication engineering, Damascus University. 
@@ -48,7 +60,7 @@ Bachelors in Electronics and communication engineering, Damascus University.
 
 ## Certifications 
 IBM Data Analyst Professional Certificate (Specialization) 
-[View certificate](https://www.coursera.org/account/accomplishments/specialization/4FO4PPVC6AR0)
+[View Certificate](https://www.coursera.org/account/accomplishments/specialization/4FO4PPVC6AR0)
 
 ## Languages
 - English: Professional working proficiency.
