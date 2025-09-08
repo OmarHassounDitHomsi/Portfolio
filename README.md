@@ -10,15 +10,13 @@ I'm expert in data analysis and its applications in business and technology, lev
 I've solid knowledge in SQL, Excel and data visualization tools such as Tableau & Power BI, and I effectively utilize Generative AI tools to enhance analysis and decision-making to stakeholders.
 
 ## Skill Highlights
-- Advanced SQL Techniques
-- Excel (Charts, Pivot Tables)
-- Tableau
-- Power BI
-- Statistics, Probability, Linear Algebra
-- Analytical Thinkinking
+- Microsoft Excel 
+- SQL Server
+- Tableau & Power BI 
+- Storeytelling 
+- Analytical Thinking 
 - Problem-Solving
 - Attenttion to Details
-- Storeytelling
 - Teamwork & Collaboration 
 
 ## Work Experiences 
