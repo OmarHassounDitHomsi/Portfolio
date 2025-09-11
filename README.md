@@ -30,7 +30,7 @@ I've solid knowledge in SQL, Excel and data visualization tools such as Tableau 
 
 #### Data Analyst Internship @ NSDIC, India · Remote (Jul 2025 – Aug 2025)
 - Analyzed, visualized, & reported 3 projects using different tools & methods.
-- Explain the final dashboards to the stakeholders.
+- Presented & explained the final insights of the dashboards to the stakeholders.
 
 ## Projects:
 
