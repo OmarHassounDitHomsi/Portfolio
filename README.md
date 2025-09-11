@@ -20,7 +20,7 @@ I've solid knowledge in SQL, Excel and data visualization tools such as Tableau 
 - Teamwork & Collaboration 
 
 ## Work Experiences 
-#### QA Data Quality Analyst Specialist @ FMS Tech., Abu Dhabi, UAE · Remote (Nov 2022 - Present)
+#### Data Quality Analyst Specialist @ FMS Tech., Abu Dhabi, UAE · Remote (Nov 2022 - Present)
 - Work closely with the AI/ML engineers to develop an accurate Driver 
   Monitoring System including detecting driver's fatigue, distraction, cellphone use, and smoking.
 - Collect and analyze data from various sources to identify trends, patterns, and anomalies that impact the system's detection accuracy and overall performance.
