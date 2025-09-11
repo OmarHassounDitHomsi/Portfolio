@@ -1,4 +1,4 @@
-# Junior Data Analyst
+# Data Analyst
 
 ## Contacts
 #### Email: [omarhassoundithomsi@gmail.com](omarhassoundithomsi@gmail.com)
