@@ -59,6 +59,7 @@ Bachelors in Electronics and communication engineering, Damascus University.
 
 ## Certifications 
 IBM Data Analyst Professional Certificate (Specialization) 
+
 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/4FO4PPVC6AR0)
 
 ## Languages
