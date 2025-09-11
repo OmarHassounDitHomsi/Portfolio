@@ -50,6 +50,7 @@ Create a streamlined dashboard that give HR team quick insights about employees 
 Create a dashboard and share insights to track and analyze online sales across a county to make business decisions using SQL Server & Power BI.
 
 ![EEG Band Discovery](Products-Dashboard.jpg)
+
 [View Full Project](https://github.com/OmarHassounDitHomsi/Store-Data-Analysis)
 
 ## Education
